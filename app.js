@@ -10,21 +10,18 @@ function buildTable (data) {
 
     //Next, loop through each object in the data
     // and append a row and cells for each value in the row
-    data.forEach((dataRow)) => {
+    data.forEach((dataRow) => {
         // Create variable to append a row o table body
         let row = tbody.append("tr");
 
         //Loop through each field in the dataRow and add
         // each value as a table cell (td)
-        Object.values(dataRow).forEach(val) => {
+        Object.values(dataRow).forEach((val) => {
             let cell = row.append("td");
             cell.text(val);
 
-            }
-        );
+        });
     });
-
-
 }
 
 // Date function that will hold our date data
