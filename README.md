@@ -1,6 +1,6 @@
 # UFOs
 
-In this project, I built a table using data stored in a JavaScript array. I also created filters to make the table fully dynamic, reacting to user input, and then placed the table into an HTML file. I customized the webpage using Bootstrap, and equipped the table with several fully functional filters that allow users to interact with the visualizations.
+In this project, I built a table using data stored in a JavaScript array. Including filters to make the table fully dynamic, reacting to user input, and then placed the table into an HTML file. I then customized the webpage using Bootstrap, and equipped the table with several fully functional filters that allow users to interact with the visualizations.
 
 ## Overview of Project
 
