@@ -14,15 +14,16 @@ The outcome was an interactive website that included a brief text about the data
 
 * Above the fold:
 
-Screenshot
+![Screenshot](UFO_web1.png)
 
 * Table:
 
-Screenshot
+![Screenshot](UFO_web2.png)
 
 * Blank display:
 
-Screenshot
+![Screenshot](UFO_web3.png)
+
 
 ## Summary
 
