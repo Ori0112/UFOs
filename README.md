@@ -5,6 +5,24 @@ In this project, I built a table using data stored in a JavaScript array. Includ
 ## Overview of Project
 
 ## Results
+The outcome was an interactive website that included a brief text about the data and five differecnt sections to filter through the data: date, city, country, shape, and duration.
+
+* HTML and Javascript were used to construct the webpage, while CSS and Bootstrap were used to design it and make it aesthetically appealing.
+* The display consists of a eye-catching page header, article title, article paragraph, interactive filters for the table, and a clean table showing the data.
+* To interact with the webpage and dissect through the data, the user can insert text in the input boxes. They can use one or all five, the information they insert will appear if it exist in the data.
+* If information being inserted is not in the data, the result will show no data.
+
+* Above the fold:
+
+Screenshot
+
+* Table:
+
+Screenshot
+
+* Blank display:
+
+Screenshot
 
 ## Summary
 
