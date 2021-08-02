@@ -12,15 +12,15 @@ The outcome was an interactive website that included a brief text about the data
 * To interact with the webpage and dissect through the data, the user can insert text in the input boxes. They can use one or all five, the information they insert will appear if it exist in the data.
 * If information being inserted is not in the data, the result will show no data.
 
-* Above the fold:
+### * Above the fold:
 
 ![Screenshot](UFO_web1.png)
 
-* Table:
+### * Table:
 
 ![Screenshot](UFO_web2.png)
 
-* Blank display:
+### * Blank display:
 
 ![Screenshot](UFO_web3.png)
 
